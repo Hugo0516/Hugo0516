@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Hugo0516
+- 👋 Hi, I’m Hugo Lin
 - 👀 I’m interested in Distributed System
 - 🌱 I’m currently learning MIT 6.824
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: sylin.hugo@gmail.com
 
 <!---
 Hugo0516/Hugo0516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
